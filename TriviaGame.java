@@ -1,7 +1,4 @@
-//Melvin Chiem-Ngoy
-//CS1400
-//Assignment 6
-//October 29, 2019
+
 import java.util.Scanner;
 public class TriviaGame 
 {
